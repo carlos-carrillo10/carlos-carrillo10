@@ -3,14 +3,30 @@
 <!--
 **crcz10/crcz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Tech lover :computer:. Always trying to learn something new :pencil2:. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have +3 years of experience in software development, both Back-end and Front-end, in C#.
+
+Technologies and laguages I've learned/worked:
+
+Back-end:
+-C# (Desktop, WPF, ASP.Net Classic, ASP.NET MVC, ASP.NET Core 2.0+, ASP.NET Core RESTful API, Entity Framework, Dependency Injection) 
+-Visual Basic (Web Classic)
+-Java (Swing, JSF, ORM)
+-Python
+
+Front-end
+-Javascript (JQuery, JSON, AJAX)
+-CSS (Bootstrap 3+)
+-HTML
+-PrimeFaces 6.0+
+-Angular 9+
+-ReactJS
+
+Mobile:
+Xamarin (Android y iOS with MVVM Pattern)
+
+Data Bases:
+MSSQL Server
+-MySQL
+-PostgreSQL
