@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **crcz10/crcz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Tech lover :computer:. Always trying to learn something new :pencil2:. 
