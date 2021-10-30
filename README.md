@@ -10,7 +10,7 @@ I have +4 years' experience in software development, both Back-end and Front-end
 
 <p><img src="https://komarev.com/ghpvc/?username=crcz10&label=Profile%20views&color=0e75b6&style=flat" alt="crcz10" /> </p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-rodrigo-carrillo-zelaya-b78509151)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodrigo-carrillo-zelaya-b78509151)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/carlos.carrillo10)
 
 
