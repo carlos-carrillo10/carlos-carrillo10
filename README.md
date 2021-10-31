@@ -6,7 +6,7 @@ I have +4 years' experience in software development, both Back-end and Front-end
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-carrillo10&show_icons=true&locale=en&layout=compact" alt="carlos-carrillo10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-carrillo10&show_icons=true&locale=en" alt="crcz10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-carrillo10&show_icons=true&locale=en" alt="carlos-carrillo10" /></p>
 
 <p><img src="https://komarev.com/ghpvc/?username=carlos-carrillo10&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-carrillo10" /> </p>
 
