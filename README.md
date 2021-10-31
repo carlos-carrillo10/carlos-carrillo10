@@ -41,7 +41,7 @@ Intermediate-Advanced English
 
 ## :wrench: Tools used
 
-- **evelopment environments (IDE)**
+- **Development environments (IDE)**
 
 Visual Studio 2012-2019, Visual Studio Code, Netbeans 8.0, Notepad++, Sublime Text
 
