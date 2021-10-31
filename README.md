@@ -4,11 +4,11 @@ Tech lover :computer:. Always trying to learn something new :pencil2:.
 
 I have +4 years' experience in software development, both Back-end and Front-end, in C#, Desktop, Mobile and Web environments.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crcz10&show_icons=true&locale=en&layout=compact" alt="crcz10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-carrillo10&show_icons=true&locale=en&layout=compact" alt="carlos-carrillo10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crcz10&show_icons=true&locale=en" alt="crcz10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-carrillo10&show_icons=true&locale=en" alt="crcz10" /></p>
 
-<p><img src="https://komarev.com/ghpvc/?username=crcz10&label=Profile%20views&color=0e75b6&style=flat" alt="crcz10" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=carlos-carrillo10&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-carrillo10" /> </p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodrigo-carrillo-zelaya-b78509151)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/carlos.carrillo10)
